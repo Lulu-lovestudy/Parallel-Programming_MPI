@@ -1,0 +1,1 @@
+Local sum for rank 1 is 3927
